@@ -1,0 +1,12 @@
+{
+  "name": "helloelectron",
+  "version": "0.1.0",
+  "description": "learning electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^2.0.9"
+  }
+}
